@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "18073254425",
+    "firebase_url": "https://tuyuservices-02.firebaseio.com",
+    "project_id": "tuyuservices-02",
+    "storage_bucket": "tuyuservices-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18073254425:android:cc803370bc62fc5f850888",
+        "android_client_info": {
+          "package_name": "com.threesixtystudios.malligai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18073254425-9i69l3bbcpm7q0jsn9dlof6qm9ekp8s5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.threesixtystudios.malligai",
+            "certificate_hash": "8c1ab6e8ba24e9d3d42daaca9f6b621e9748c039"
+          }
+        },
+        {
+          "client_id": "18073254425-eos3lrrhammnna6cvt0pvfigv1h06sbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXURTBANZhgfGI9PoWD8aoyMIlxRhWVe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18073254425-eos3lrrhammnna6cvt0pvfigv1h06sbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18073254425:android:24a261485c9a08a7850888",
+        "android_client_info": {
+          "package_name": "com.tuyuservices.tuyu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18073254425-eos3lrrhammnna6cvt0pvfigv1h06sbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXURTBANZhgfGI9PoWD8aoyMIlxRhWVe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18073254425-eos3lrrhammnna6cvt0pvfigv1h06sbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18073254425:android:cb0e28699b7d132c850888",
+        "android_client_info": {
+          "package_name": "com.tuyuservices.tuyumain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18073254425-eos3lrrhammnna6cvt0pvfigv1h06sbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXURTBANZhgfGI9PoWD8aoyMIlxRhWVe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18073254425-eos3lrrhammnna6cvt0pvfigv1h06sbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
